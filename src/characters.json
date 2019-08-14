@@ -1,0 +1,86 @@
+[
+    {
+      "id": 1,
+      "name": "Tundra",
+      "selected":false,
+      "imageURL": "http://pngimg.com/uploads/audi/audi_PNG1753.png"
+    },
+  
+    {
+      "id": 2,
+      "name": "Accord",
+      "selected":false,
+      "imageURL": "https://www.cstatic-images.com/car-pictures/xl/usc80foc052b021001.png"
+    },
+  
+    {
+      "id": 3,
+      "name": "Civic",
+      "selected":false,
+      "imageURL": "https://cdn.jdpower.com/ChromeImageGallery/Expanded/Transparent/640/2018KIC100003_640/2018KIC100003_640_01.png"
+    },
+  
+    {
+      "id": 4,
+      "name": "Pilot",
+      "selected":false,
+      "imageURL": "https://www.cstatic-images.com/car-pictures/xl/usc60tss011c021001.png"
+    },
+  
+    {
+      "id": 5,
+      "name": "Camry",
+      "selected":false,
+      "imageURL": "https://postmediadriving.files.wordpress.com/2019/04/chrome-image-402046.png?w=800&h=520&crop=1"
+    },
+  
+    {
+      "id": 6,
+      "name": "Corolla",
+      "selected":false,
+      "imageURL": "https://i.ya-webdesign.com/images/chevrolet-vector-transparent-background-18.png"
+    },
+  
+    {
+      "id": 7,
+      "name": "Escape",
+      "selected":false,
+      "imageURL": "https://purepng.com/public/uploads/large/purepng.com-black-bmwbmwcarluxurious-carbmw-carsblack-bmw-1701527415989kvtoh.png"
+    },
+  
+    {
+      "id": 8,
+      "name": "Malibu",
+      "selected":false,
+      "imageURL": "https://st.motortrend.ca/uploads/sites/10/2017/05/2017-aston-martin-vanquish-base-coupe-angular-front.png"
+    },
+  
+    {
+      "id": 9,
+      "name": "F-150",
+      "selected":false,
+      "imageURL": "https://wheelforcecentre.com/wp-content/uploads/2018/10/bmw-x5.png"
+    },
+  
+    {
+      "id": 10,
+      "name": "Ram",
+      "selected":false,
+      "imageURL": "https://www.arval.cz/sites/cz/files/opel_14insigniawg_1b_lowaggressive.png"
+    },
+  
+    {
+      "id": 11,
+      "name": "Leaf",
+      "selected":false,
+      "imageURL": "https://images.dealer.com/ddc/vehicles/2015/Honda/Civic/Sedan/trim_LX_a8d753/color/Modern%20Steel%20Metallic-GY-74%2C78%2C79-640-en_US.jpg"
+    },
+  
+    {
+      "id": 12,
+      "name": "Mustang",
+      "selected":false,
+      "imageURL": "http://www.pngmart.com/files/4/Car-PNG-File.png"
+    } 
+]
+  
