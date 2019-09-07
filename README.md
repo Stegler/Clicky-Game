@@ -14,6 +14,6 @@ CSS<br>
 Javascript<br>
 
 <h2>Deployed on GitHub pages</h2>
-  
+https://stegler.github.io/Clicky-Game/
  
  
